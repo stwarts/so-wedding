@@ -1,0 +1,32 @@
+/* Local font overrides */
+@font-face {
+  font-family: 'fraunces_120pt-semibold';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fraunces_120pt-semibold.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'cormorantgaramond-light';
+  font-style: normal;
+  font-weight: 400;
+  src: url('cormorantgaramond-light.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'cormorantgaramond-semibold';
+  font-style: normal;
+  font-weight: 400;
+  src: url('cormorantgaramond-semibold.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'cormorantgaramond';
+  font-style: normal;
+  font-weight: 400;
+  src: url('cormorantgaramond.woff2') format('woff2');
+  font-display: swap;
+}
